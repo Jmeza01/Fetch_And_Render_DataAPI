@@ -14,7 +14,7 @@
   <a href="#toolbox-installation">Installation</a> &#xa0; | &#xa0;
   <a href="#joystickhow-to-play">How to Play</a> &#xa0; | &#xa0;
   <a href="#briefcase-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/arturomsoberanes" target="_blank">Author</a>
+  <a href="https://github.com/Jmeza01" target="_blank">Author</a>
 </p>
 
 <br>
@@ -27,7 +27,7 @@ To make this project use [Create React App](https://create-react-app.dev/)
 
 ## :dart: DEMO ##
 
-If you want to try it just click [here]()
+If you want to try it just click [here](https://github.com/Jmeza01/Fetch_And_Render_DataAPI)
 
 ## :memo: Improvements ##
 
